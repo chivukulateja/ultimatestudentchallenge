@@ -235,7 +235,7 @@ a:hover {
   }
 
   .overlap-small {
-    font-size: 40px;
+    font-size: 45px;
     text-transform: uppercase;
     line-height: 45px;
     text-align: center;
@@ -244,14 +244,14 @@ a:hover {
     /* padding-bottom: 5%; */
   }
   .overlap_middle-small {
-    font-size: 120px;
+    font-size: 150px;
     letter-spacing: -1px;
-    font-family: Montserrat;
+    font-family: Roboto;
     font-weight: bolder;
-    margin-bottom: -100px;
+    margin-bottom: -70px;
     z-index: -1;
     color: #f4f4f4;
-    text-align: right;
+    text-align: center;
   }
 
   .overlap_left-small {
@@ -264,11 +264,12 @@ a:hover {
     text-align: left;
   }
   .para-small {
-    font-size: 18px;
+    font-size: 20px;
     font-family: Roboto;
     text-align: center;
     /* width: 100%; */
-    padding: 10px;
+    padding-left: 5%;
+    padding-right: 5%;
 
     /* margin-left: 30px; */
     /* padding: 10px; */
@@ -289,13 +290,15 @@ a:hover {
   .text_grp-small {
     align-items: center;
     /* width: max-content; */
-    padding: 10%;
+    /* padding: 10%; */
     /* line-break: unset; */
+    margin-top: -25px;
   }
 
   .reg-small {
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 50px;
     width: 200px;
     padding: 10px;
     /* letter-spacing: 1px; */
@@ -414,6 +417,9 @@ a:hover {
     }
   }
 
+  .svg2 {
+    margin-bottom: 75px;
+  }
   .container-small,
   .overlap-small,
   .para-small,
