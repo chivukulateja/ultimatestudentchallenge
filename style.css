@@ -316,16 +316,6 @@ a:hover {
     text-align: center;
     text-decoration: none;
   }
-  .reg-small:hover {
-    background-color: #fff;
-    color: #6a66fc !important;
-    border-radius: 5px;
-    border: 2px solid #6a66fc;
-    float: left;
-    outline: none;
-    text-align: center;
-    text-decoration: none !important;
-  }
 
   .bld-small {
     font-weight: 700;
